@@ -1,7 +1,7 @@
 # Hi there, I'm Kurshed Khan! 👋
 
 ## 🚀 About Me
-- 👨‍💻 2+ Years of Coding Experience
+- 👨‍💻 2+ Years of Coding Experience(2024)
 - 👨‍🏫 Teacher & Mentor
 - 💻 Full-Stack Developer
 - 🎯 Passionate about Web Development & JavaScript
@@ -38,5 +38,4 @@
 ## 📫 Connect with Me
 - 💬 Ask me about Web Development & Programming
 - 📧 Email: [kurshedkhanbhadra@gmail.com](mailto:your-email@example.com)
-
 ### 🚀 Thanks for visiting! Keep Coding! 🚀
