@@ -1,40 +1,42 @@
 # Hi there, I'm Kurshed Khan! 👋
 
 ## 🚀 About Me
+- 👨‍💻 2+ Years of Coding Experience
 - 👨‍🏫 Teacher & Mentor
-- 💻 Full-Stack Developer in Progress
+- 💻 Full-Stack Developer
 - 🎯 Passionate about Web Development & JavaScript
-- 🌱 Currently learning **Advanced JavaScript & Advanced Python**
+- 🌱 Currently learning **Advanced JavaScript,Python & Artificial Intelligence**
 
 ## 🛠️ Technologies & Tools
 
-### Frontend Development
-- HTML, CSS, JavaScript, React
+### 🎨 Frontend Development
+- 🏗️ HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React
 
-### Backend Development
-- Node.js, Express.js, Django
+### 🖥️ Backend Development
+- 🚀 Node.js, ⚡ Express.js, 🎯 Django
 
-### Programming Languages
-- C, C++, Java, Python
+### 🖥️ Programming Languages
+- 🔵 C, 🔷 C++, ☕ Java, 🐍 Python
 
-### Data Science & Machine Learning
-- NumPy, Pandas, Matplotlib
+### 📊 Data Science & Machine Learning
+- 📈 NumPy, 📊 Pandas, 📉 Matplotlib, 🔍 Power BI
 
-### Database Management
-- MongoDB, MySQL
+### 🗄️ Database Management
+- 🗃️ MongoDB, 🛢️ MySQL
 
-### Tools
-- Git, GitHub, VS Code
+### 📝 Microsoft Office Suite
+- 📄 MS Word, 📊 Excel, 📈 Advanced Excel, 🎞️ PowerPoint
+
+### 🛠️ Tools
+- 🌀 Git, 🏠 GitHub, 📝 VS Code
 
 ## 📌 My Goals
-- 🔥 Master Full-Stack Development
-- 🎯 Build real-world projects
-- 🤝 Contribute to open-source
+- 🔥 Advanced JavaScript
+- 🎯 Advance Python & 
+- 🤝 Artificial Intelligence
 
 ## 📫 Connect with Me
 - 💬 Ask me about Web Development & Programming
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [kurshedkhanbhadra@gmail.com](mailto:your-email@example.com)
 
 ### 🚀 Thanks for visiting! Keep Coding! 🚀
