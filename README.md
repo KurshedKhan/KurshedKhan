@@ -1,7 +1,7 @@
 # Hi there, I'm Kurshed Khan! 👋
 
 ## 🚀 About Me
-- 👨‍💻 2+ Years of Coding Experience(2024)
+- 👨‍💻 3+ Years of Coding Experience(2023)
 - 👨‍🏫 Teacher & Mentor
 - 💻 Full-Stack Developer
 - 🎯 Passionate about Web Development & JavaScript
