@@ -1,6 +1,6 @@
 # Hi there, I'm Kurshed Khan! 👋
 # AI Tools & AI Agents Expert
- ## Codex(ChatGpt), Github-Copilot(GC), Cursor, Claude.
+- Codex(ChatGpt), Github-Copilot(GC), Cursor, Claude , Gemini
 
 ## 🚀 About Me
 - 👨‍💻 3+ Years of Coding Experience(2023)
